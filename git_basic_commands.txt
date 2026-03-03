@@ -1,0 +1,14 @@
+git status
+git add new.py
+git status
+git rm --cached new.py
+git status
+git add .
+git status
+git commit -m "added new file to tracked."
+git status
+rm new.py
+git status
+git restore new.py
+git status
+git log
