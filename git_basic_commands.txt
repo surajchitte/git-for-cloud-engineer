@@ -12,3 +12,14 @@ git status
 git restore new.py
 git status
 git log
+
+
+ git remote add origin https://github.com/surajchitte/git-for-cloud-engineer.git
+git remote -v
+git push origin master
+history
+git remote -v
+git status
+git log
+git branch
+history
