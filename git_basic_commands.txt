@@ -23,3 +23,20 @@ git status
 git log
 git branch
 history
+
+ls -al
+git status
+git add hello.py
+git status
+rm hello.py
+git restore hello.py
+git status
+rm hello.txt
+git restore hello.txt
+git status
+git add hello.txt
+git commit -m "txt file created successfully"
+git log
+rm hello.txt
+ git restore hello.txt
+ git push origin master
