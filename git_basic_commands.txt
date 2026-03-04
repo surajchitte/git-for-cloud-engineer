@@ -42,3 +42,5 @@ rm hello.txt
  git push origin master
 
 this is some new changes in remote repository...
+
+i had made some changes now you can pull it to your local
